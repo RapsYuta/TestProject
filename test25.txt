@@ -1,0 +1,12 @@
+ Volume in drive C is System
+ Volume Serial Number is 7680-FFC8
+
+ Directory of C:\Users\remote\git\TestProject
+
+10/19/2021  03:10 PM    <DIR>          .
+10/19/2021  03:10 PM    <DIR>          ..
+10/19/2021  02:57 PM    <DIR>          index25.html
+10/19/2021  03:10 PM                 0 test25.txt
+10/14/2021  09:51 PM    <DIR>          TestProject
+               1 File(s)              0 bytes
+               4 Dir(s)  111,440,842,752 bytes free
